@@ -1,3 +1,4 @@
+
 # Simple Simulation of Virtual Memory Management
 
 This repository is intended as a learning tool for virtual memory management in Linux.
@@ -26,7 +27,7 @@ To run:
 ./build/bin/memory_manager
 ```
 
-## Python Implementation
+## Python Implementation
 
 Navigate to `python-implemtation` with `cd python-implementation`
 
