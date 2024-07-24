@@ -26,3 +26,21 @@ To run:
 ./build/bin/memory_manager
 ```
 
+## Python Implementation
+
+Navigate to `python-implemtation` with `cd python-implementation`
+
+Run with:
+
+```bash
+python3 memory_manager.py
+```
+
+## To Add
+
+Expanding this to include description (in presentation format of):
+
+1. Consequences of virtual memory management for user/developer
+2. How virtual memory management fits in with LSF/HPC
+3. Discussion of shared memory
+4. Common pitfalls with virtual memory management systems
